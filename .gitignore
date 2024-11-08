@@ -162,3 +162,5 @@ cython_debug/
 #.idea/
 
 *.csv
+/original_data
+/data_preprocessing/AutoViz_Plots

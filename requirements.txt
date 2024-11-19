@@ -1,4 +1,5 @@
-numpy==2.0
+numpy==1.26.4
 pandas
-ydata-profiling
-autoviz
+tensorflow==2.15
+fancyimpute
+phik

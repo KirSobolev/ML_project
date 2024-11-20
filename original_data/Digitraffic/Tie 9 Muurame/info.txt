@@ -1,0 +1,5 @@
+Tie 9 Muurame, Keljonkangas - Digitraffic ID9021
+Infraweb device id: 15fce570-c952-11ed-8e2c-17cbeae4ccb2
+Sijaintikoordinaatit: 
+Lat: 62.17971
+Lon: 25.681402

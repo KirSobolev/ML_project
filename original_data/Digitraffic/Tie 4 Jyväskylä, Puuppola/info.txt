@@ -1,0 +1,5 @@
+Tie 4 Jyväskylä, Puuppola - Digitraffic ID9019
+Infraweb device id: cc84f850-f561-11e9-8fc0-a3372986e528
+Sijaintikoordinaatit: 
+Lat: 62.363933953977856
+Lon: 25.699992056454246

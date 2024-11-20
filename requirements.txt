@@ -3,3 +3,5 @@ pandas
 tensorflow==2.15
 fancyimpute
 phik
+prophet
+plotly

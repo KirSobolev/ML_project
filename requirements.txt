@@ -5,3 +5,7 @@ fancyimpute
 phik
 prophet
 plotly
+xgboost
+optuna
+lime
+shap

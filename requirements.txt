@@ -9,3 +9,5 @@ xgboost
 optuna
 lime
 shap
+scalecast
+dask[dataframe]

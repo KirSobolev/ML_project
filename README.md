@@ -10,12 +10,15 @@ To install all python libraries at once use next command:
 
 
 Folders description:
+
     web-site/ - everything related to website, done by Mykhailo
+    
     old_files/ - storage for files that are not used in the final solution
         Vladimir/ - everything that Vladimir submitted
         tests.ipynb - some data EDA, made by Kirill and Hezekiah
         models_test_versions/ - stores models and working notebooks, made by Kirill and Hezekiah
         marwis_mobile_join.ipynb - data prep for marwis dataset, were not used in the end
+        
     final/ - stores final solution, made by Kirill
         model_train.ipynb - training notebook
         demo.py - demo GUI
